@@ -23,7 +23,7 @@ requirements.txt
 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/username/LvlUp.git
+git clone https://github.com/hinarie/Voice-Recorder.git
 ```
 
 2. Создать виртуальное окружение
